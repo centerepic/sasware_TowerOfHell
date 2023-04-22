@@ -1,5 +1,5 @@
 local Settings = {
-    Debug = true
+    Debug = false
 }
 
 local function Debug(Source, ...)
